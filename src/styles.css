@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-item: center;
+  gap: 12px;
+}
+
+.field1 {
+  display: flex;
+  justify-content: center;
+  align-item: center;
+  gap: 12px;
+}
+.checkboxfields {
+  display: flex;
+
+  justify-content: center;
+  align-item: center;
+  gap: 12px;
+}
